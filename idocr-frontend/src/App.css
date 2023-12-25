@@ -1,0 +1,107 @@
+.centered-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh; /* Adjust height as needed */
+}
+
+/* Style the dropdown button */
+.dropbtn {
+  position: relative;
+}
+
+/* Style the arrow */
+.arrow {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.arrow.up {
+  transform: translateY(-50%) rotate(180deg);
+}
+
+/* Hide the dropdown content by default */
+.dropdown-content {
+  display: none;
+}
+
+/* Show the dropdown content when the dropdown button is clicked */
+.dropdown-content.show {
+  display: block;
+}
+
+
+.upload-container {
+  text-align: center;
+}
+
+/* styles.css */
+
+/* styles.css */
+
+.header {
+  background-color: #f8f8f8; /* Web-safe background color */
+  padding: 10px;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Soft shadow */
+}
+
+.blue-strip {
+  background-color: #3498db; /* Web-safe blue color */
+  color: white;
+  padding: 10px;
+  text-align: center;
+  border-radius: 5px; /* Rounded corners */
+}
+
+
+.response-container {
+  margin-top: 20px; /* Adjust spacing between upload and response */
+  text-align: top;
+}
+
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}

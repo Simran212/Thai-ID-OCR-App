@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sonorous-guide-409012",
+  "private_key_id": "a5044af0b35a8bd1ca9baa6e14d787c3837d7c4a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDNLquhmDjwCVW4\nivKNKvZbsZFIDgEbhUcEU2r1b+4FLWE5oYyDjDlt9OQtnkK5pUQO5SX+Alguc4Ya\n2ujhLUEle06Ey4mpYRjx3RQ4y8SrjFMB3NxuNZN/H//8dg9JOBHGuPhquLdLFujQ\n73or6ia7ArBBpPHFNoeZEkcXj6wLSHYlNd1v+hfybw56dmUqcraWiy8pL1BEEbOc\nq1aF+kph3if6jiYVUKa9sSpn1I9SR+U+M3YPWPfBiRjRoLq5KgPr5RsvsituHVjQ\n1cj0zD37iNuZDNfTFNwVMWW80qc9DLw43xXIZXZFPrLSF0BaiGuqymJzCUJCtfJT\nzndxmxAzAgMBAAECggEAJ9emMEzU0Zeec6VXkB4FlKyYX3uIr4Vj0u032c0QVSUI\nuh4qoOi7xiRFoq4WmuICoznP9NETuoFoSxKzIfadrd+R0auMYb2fEGgzowu+dula\nvQPcMfJpX8gg9y8drMQcf5AvfNm9jfE26Et4V8qyFqJhA346DGeYURsBfwvBBreE\nTTCmJiw/PnuKrCfZ6lHnOiojmlZ+UWqwSUqXXl6pxhyiGMfAZvJJB3vSC1WRjwJw\nHfjSEiErtEdS7iyt5W2dun+6L2Mi85CKPMEqUmaVyoANTr6Vbj5pdl5NsVZ4Eu6E\n+mTyHysR0+ypda2Rl9XIJPRT5lBz5oOxFpjyAttmsQKBgQDwck6rhbPHNUsUw93+\nOFI1Pfa6h3pIfn9c5pITXGlB5XnIUVtTSo5PbnYmMJ6OyHfoNly2zoKy6MZcUGbq\n/2sC2XGKZp7bBNTdjefQZPw6FlGRZU7KJhinZKFxBlZ2STeC9x73Oay2Wkq4me1Q\nVurZNCkVUigxJo+Wv78iaDeLHQKBgQDadGcbkcuT1QXbtLGgZP6jdj57s/iHB34b\nkd8nOLvMKWJRT0gfdhiPW69/08OFvKBUkYlCHFx8+3Xyv5gdfjYwqjg/vA3BVH48\nePlVyhdiTKg6Azlc4Ia7iJ2216IuwHGmWWiksNCgt6/V9oYVuVvVHS77uZhSbaEI\n706GfIvXjwKBgQCwfacDPcPFYHf5CQBkvyCQligJqLH4jmmcXl4wue9FAFTQ1e7s\nB1jIMzOkOqHX+owRNf397T2AZ15ammXA7rS0xbkSttq5tyUsbyIOFGITnRhIWg1o\nUmhcToA1/0ntzzZg+lWPcJU20LXyJIJOK059Gk1hqgl4cm6JX7vDXK4QfQKBgD0u\nys3y6HRv/iMJmZIVlyfK7zcQMbQHyi8IjNpcTmSg1pN1Q/rjxX8pK57+fU1QhgsJ\nc8rbTKAIgYFKXd0swxqgIf7fuW6DLpPbQeHgJup2E8ujqYY0sCeH3Lwf6qFzbqEr\ne15c0yGgMJQZZnZhIrIuaUFBOsMjRy3McE7ERRpLAoGBAOyzwksOWI6XfOcnLEhC\nGlnxZp8eZdyIlM8d3O8yHeNduljRz+ni1ngnrJgxmF4wxcZlq4lVr19oOlVE3Dxu\n61yqApqmm2XTNmouZw+2MQTy3Z9WiGdB3kzZ3Cog3pv/moAJqrEUkDZbHvpmjdVA\nBJCrbPFIKp0fLgpaZx0XHvNt\n-----END PRIVATE KEY-----\n",
+  "client_email": "ocrserviceaccount@sonorous-guide-409012.iam.gserviceaccount.com",
+  "client_id": "101455669224229234178",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ocrserviceaccount%40sonorous-guide-409012.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
